@@ -1,0 +1,3 @@
+C:\Users\HP\Downloads\School_Library_Management_System_in_C_sharp\SchoolLibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\School_Library_Management_System_in_C_sharp\SchoolLibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\School_Library_Management_System_in_C_sharp\SchoolLibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe.config
